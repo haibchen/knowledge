@@ -6,6 +6,10 @@
 1. Java Concurrency in Practice
 2. Seven Concurrency models in Seven Weeks
 
+a. Concurrent Programming Using The Disruptor talk
+b. Concurrency Concepts in Java by Douglas Hawkins
+c. The Quest for Low-latency with Concurrent Java
+
 # Unit Test
 1. The Art of Unit Testing by Roy Osherove
 2. XUnit Test Patterns: Refactoring Test Code
