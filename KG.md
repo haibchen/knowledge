@@ -3,12 +3,14 @@
 2. Shared Memory Consistency Models: A Tutorial (Sarita V. Adve and Kourosh Gharachorloo)
 
 # Java Concurrency
+Readings:
 1. Java Concurrency in Practice
 2. Seven Concurrency models in Seven Weeks
 
-a. Concurrent Programming Using The Disruptor talk
-b. Concurrency Concepts in Java by Douglas Hawkins
-c. The Quest for Low-latency with Concurrent Java
+Watchings:
+1. Concurrent Programming Using The Disruptor talk
+2. Concurrency Concepts in Java by Douglas Hawkins
+3. The Quest for Low-latency with Concurrent Java
 
 # Unit Test
 1. The Art of Unit Testing by Roy Osherove
