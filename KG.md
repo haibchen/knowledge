@@ -19,3 +19,11 @@ Watchings:
 # Maven
 1. Maven: The Complete Reference
 2. Maven by Example
+
+# Tools
+Readings:
+1. Practical Tmux Development
+
+Watchings: 
+1. Git from the inside out
+2. Linus Torvalds on Git
