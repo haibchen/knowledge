@@ -1,6 +1,7 @@
 # Unit Test
 1. The Art of Unit Testing by Roy Osherove
-2. XUnit Test Patterns: Refactoring Test Code
+2. XUnit Test Patterns: Refactoring Test Code 
+
 Note: the key is the SOLID principle especially Dependency Injection
 
 # Maven
