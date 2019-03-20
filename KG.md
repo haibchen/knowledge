@@ -31,3 +31,8 @@ Watchings:
 1. A Primer on Memory Consistency and Cache Coherence (By Daniel J. Sorin & Mark D. Hill & David A. Wood)
 2. Shared Memory Consistency Models: A Tutorial (Sarita V. Adve and Kourosh Gharachorloo)
 3. Auxiliary Reference for Java Memory Model implementation: [The Java Memory Model](JMM.pdf)
+
+# System Performance
+1. System Performance - Enterprise and the cloud by Brendan Gregg
+2. **Is Parallel Programming Hard, And, If So, What Can You Do About It?**
+3. Software Performance & Scalability: A Cheatsheet by Mike Kramlich
