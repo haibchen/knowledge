@@ -37,3 +37,6 @@ Watchings:
 1. **Is Parallel Programming Hard, And, If So, What Can You Do About It?**
 2. System Performance - Enterprise and the cloud by Brendan Gregg
 3. Software Performance & Scalability: A Cheatsheet by Mike Kramlich
+
+# Miscellaneous
+[https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey)
