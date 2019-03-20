@@ -39,4 +39,4 @@ Watchings:
 3. Software Performance & Scalability: A Cheatsheet by Mike Kramlich
 
 # Miscellaneous
-[https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey)
+[Persistent Data Structures and Managed References](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey)
