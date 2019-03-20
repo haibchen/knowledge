@@ -11,6 +11,7 @@ Note: the key is the SOLID principle especially Dependency Injection
 Readings:
 1. Practical Tmux Development
 2. [A Byte of Vim](https://vim.swaroopch.com/)
+
 Watchings: 
 1. Git from the inside out
 2. Linus Torvalds on Git
