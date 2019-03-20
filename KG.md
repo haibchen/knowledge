@@ -34,6 +34,6 @@ Watchings:
 3. Auxiliary Reference for Java Memory Model implementation: [The Java Memory Model](JMM.pdf)
 
 # System Performance
-1. System Performance - Enterprise and the cloud by Brendan Gregg
-2. **Is Parallel Programming Hard, And, If So, What Can You Do About It?**
+1. **Is Parallel Programming Hard, And, If So, What Can You Do About It?**
+2. System Performance - Enterprise and the cloud by Brendan Gregg
 3. Software Performance & Scalability: A Cheatsheet by Mike Kramlich
