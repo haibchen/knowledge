@@ -39,5 +39,6 @@ Watchings:
 3. Software Performance & Scalability: A Cheatsheet by Mike Kramlich
 
 # Miscellaneous
-[Persistent Data Structures and Managed References](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey)
+[Persistent Data Structures and Managed References](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey)   
+
 [Dominant Max-min Fairness Scheduling](Dominant Resource Fairness: Fair Allocation of Multiple Resource Types)
